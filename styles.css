@@ -1,0 +1,7 @@
+table {
+    border: 2px solid black;}
+th {
+    border-bottom: 2px solid rgb(191, 21, 21)}
+td {
+    border:2px solid teal;}
+.captions { font-style: italic; border: none;}
